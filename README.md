@@ -1,7 +1,24 @@
 <h1 align="center">Hi 👋, I'm SATVIK SHUKLA</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deadland2002&label=Profile%20views&color=0e75b6&style=flat" alt="deadland2002" /> </p>
+ <div align="left">
+        <br />
+        <p>
+            <strong>
+                I'm a full stack web developer from India who is passionate about making open-source projects that are more accessible, making websites for future, creating technology to elevate people, and building community. Some
+                technologies I enjoy working with include HTML, CSS and JavaScript for frontend development ReactJS, Nextjs for frameworks and express , Node JS for backend development. You can find enormous and gigantic projects in my repository.
+            </strong>
+        </p>
+        <h1></h1>
+        <ul>
+            <li>🔭 <b>I’m currently working on</b>: Deep face learning.</li>
+            <li>🌱 <b>I’m currently learning</b>: Android and Python .</li>
+            <li>💬 <b>Ask me about</b>: Web Development, API Developments and Competetive Programming.</li>
+            <li>🤔 <b>I’m currently open for</b>: A new Internship opportunity and Open Source Projects.</li>
+            <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://satvikshukla.adaye.in">My Portfolio</a>.</li>
+            <li>⚡ Fun fact: <b>I think I am funny</b>.</li>
+        </ul>
+        <br />
+    </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadland2002" alt="deadland2002" /></a> </p>
 
